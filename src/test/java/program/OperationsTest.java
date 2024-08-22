@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 class OperationsTest {
+
     @Test
     void somartoria() {
         Operations operation = new Operations();
